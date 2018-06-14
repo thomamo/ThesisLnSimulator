@@ -1,0 +1,7 @@
+Start python27 server with in folder:
+	python -m SimpleHTTPServer
+	
+Go to localhost:8000/Network.html
+
+Big thanks to Peter Kerpedjiev - https://bl.ocks.org/pkerpedjiev
+https://bl.ocks.org/pkerpedjiev/f2e6ebb2532dae603de13f0606563f5b#d3v4-brush-lite.js

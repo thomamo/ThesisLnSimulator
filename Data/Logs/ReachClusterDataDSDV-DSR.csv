@@ -1,0 +1,14 @@
+ProtocolType,NetworkType,NetworkSize,NoOutboundChannels,TTL,Repeats,Size,FoundPercentage
+ProtocolType,NetworkType,NetworkSize,NoOutboundChannels,TTL,Repeats,Size,FoundPercentage
+DSDV,Cluster,1757,72,NAN,1,1,93
+DSR,Cluster,1757,72,0,1,1,22.1
+DSR,Cluster,1757,72,1,1,1,90.3
+DSR,Cluster,1757,72,2,1,1,92.8
+DSDV,Cluster,3514,140,NAN,1,2,94.5
+DSR,Cluster,3514,140,0,1,2,11.9
+DSR,Cluster,3514,140,1,1,2,52.5
+DSR,Cluster,3514,140,2,1,2,90.7
+DSDV,Cluster,5271,212,NAN,1,3,95
+DSR,Cluster,5271,212,0,1,3,5.3
+DSR,Cluster,5271,212,1,1,3,42.8
+DSR,Cluster,5271,212,2,1,3,91.6
